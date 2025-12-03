@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda de Tareas</string>
+    <string name="add_task">Agregar nueva tarea</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="title_hint">Título de la tarea</string>
+    <string name="description_hint">Descripción (opcional)</string>
+    <string name="date_hint">Fecha</string>
+    <string name="select_date">Seleccionar fecha</string>
+    <string name="empty_list">No hay tareas. ¡Agrega una!</string>
+    <string name="confirm_delete">¿Eliminar esta tarea?</string>
+</resources>
